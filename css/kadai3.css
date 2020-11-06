@@ -1,0 +1,32 @@
+h1{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: normal;
+    font-family:"arial black";
+    text-align: center;
+    background-color: black;
+}
+
+h3{
+    color: #ffffff;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'ＭＳ 明朝';
+    background-color: rgba(0,0,0,0.5);
+}
+
+h6{
+    font-size: 35px;
+    font-family: 'HG正楷書体-PRO';
+    color: #940000;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'HG正楷書体-PRO';
+}
+
+body{
+    background-image: url(../images/back-sic3.jpeg);
+    background-attachment: fixed;
+}
